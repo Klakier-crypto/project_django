@@ -2,4 +2,4 @@
 klakier/klakier/__pycache__/
 klakier/sklep/__pycache__/
 klakier/sklep/migrations/__pycache__/
-klakier/secret_key.py
+klakier/klakier/secret_key.py
