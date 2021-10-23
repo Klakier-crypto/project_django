@@ -1,1 +1,4 @@
 .idea/
+klakier/klakier/__pycache__/
+klakier/sklep/__pycache__/
+klakier/sklep/migrations/__pycache__/
