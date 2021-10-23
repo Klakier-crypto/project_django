@@ -11,3 +11,4 @@ ctrl+alt+l - podświetla czy składnia jest ok
 wtedy username=username
 
 render - jakiś tempalete?
+commit
